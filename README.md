@@ -12,4 +12,7 @@ Simplify code by removing redundancies, correct semantic HTML, add accessibility
 ## Tools
 Html & CSS
 
+
+https://github.com/GregKrolick/Develop/blob/16a83164ae4aaf848fdbf1ba5afd50b65b8be4bb/index.html#L33-L49
+
 By Gregory Krolick
